@@ -1,3 +1,3 @@
 # Lisbeth200.github.io
-Universidad Técnica de Cotopaxi 
-Sistemas de Información
+#Universidad Técnica de Cotopaxi 
+#Sistemas de Información
